@@ -206,10 +206,10 @@ const technologies = [
   { name: "Jira", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" },
   { name: "Jenkins", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" },
 
-  // לא קיימים ב-devicon -> נשים לוגואים חלופיים
   { name: "Cantata", icon: cantata },
   { name: "Codebeamer", icon: codebeamer },
   { name: "Claude Code", icon: claude },
+  
 ];
 
 const experiences = [
